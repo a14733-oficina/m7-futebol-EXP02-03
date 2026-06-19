@@ -90,7 +90,7 @@ A base de dados foi desenvolvida no **Supabase** e contém uma tabela principal 
 3. Configurar as credenciais do Supabase:
 
    ```javascript
-   const supabaseUrl = 'https://seu-projeto.supabase.co';
+   const supabaseUrl = 'https://o-teu-projeto.supabase.co';
    const supabaseKey = 'sua-chave-publica';
    ```
 
